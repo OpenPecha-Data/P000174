@@ -1,0 +1,36 @@
+ebook_metadata:
+  title: ༄༅༅༔ སློབ་དཔོན་ཆེན་པོ་སྤྲུལ་སྐུ་པདྨ་འབྱུང་གནས་ཀྱི་བཀའ་འབུམ་བཞུགས་པའི་དབུའི་ཕྱོགས༔
+    ཆོས་འདི་ཉམས་སུ་ལེན་པའི་སྙིང་གཏམ་གྱི་ཆོས་ཡིན་པས༔ ཐུགས་སུ་ལེན་པར་མཛོད་ལེགས་སྷོ༔
+  authors:
+  - མཛད་པ་པོ། ཨོ་རྒྱན་གྱི་སློབ་དཔོན་ཆེན་པོ་པདྨ་སཾ་བྷ་ཝ་དང་ཉང་རལ་ཉི་མ་འོད་ཟེར།
+  sku: SHE-RTD-019
+  layers:
+  - book_title
+  - author
+  - yigchung
+web_metadata:
+  title:
+    en: The Naked Instructions of the Guru Given to Yeshe Tsogyal
+    bo: བླ་མ་དམར་ཁྲིད་ཀྱི་ཞལ་གདམས་ཞུས་ལན་སྐོར་བཞུགས་སོ༔
+  collection:
+    en: Treasury of Precious Termas–  Book 19
+    bo: ''
+  author:
+    en: Authors:Nyangral Nyima Oser,Padmasambhava
+    bo: ''
+  pusblisher:
+    en: Shechen Publications
+    bo: ''
+  sku: SHE-RTD-019
+  category:
+    en: Pith Instructions
+    bo: མན་ངག
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: SHE-RTD-019.epub
+  description:
+    en: ''
+    bo: ''
