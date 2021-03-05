@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000174
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅༅༔ སློབ་དཔོན་ཆེན་པོ་སྤྲུལ་སྐུ་པདྨ་འབྱུང་གནས་ཀྱི་བཀའ་འབུམ་བཞུགས་པའི་དབུའི་ཕྱོགས༔
     ཆོས་འདི་ཉམས་སུ་ལེན་པའི་སྙིང་གཏམ་གྱི་ཆོས་ཡིན་པས༔ ཐུགས་སུ་ལེན་པར་མཛོད་ལེགས་སྷོ༔
   authors:
   - མཛད་པ་པོ། ཨོ་རྒྱན་གྱི་སློབ་དཔོན་ཆེན་པོ་པདྨ་སཾ་བྷ་ཝ་དང་ཉང་རལ་ཉི་མ་འོད་ཟེར།
-  sku: SHE-RTD-019
   layers:
   - book_title
   - author
   - yigchung
+  id: SHE-RTD-019
 web_metadata:
   title:
     en: The Naked Instructions of the Guru Given to Yeshe Tsogyal
